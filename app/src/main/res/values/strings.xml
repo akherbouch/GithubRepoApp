@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MvpGithubApi</string>
+    <string name="title">Trending Repos</string>
+
+    <string name="dialog_action_ok">OK</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_error_title">Sorry</string>
+    <string name="error_loading_repos">There was a problem loading the repos</string>
+
+</resources>
