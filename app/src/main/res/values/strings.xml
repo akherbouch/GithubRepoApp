@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MvpGithubApi</string>
+    <string name="app_name">Trending GitHub Repos</string>
     <string name="title">Trending Repos</string>
 
     <string name="dialog_action_ok">OK</string>
